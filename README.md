@@ -1,3 +1,7 @@
+**ARCHIVED**
+
+Repo has been moved to [sanctum-solana-utils](https://github.com/igneous-labs/sanctum-solana-utils/tree/master/solana-readonly-account)
+
 # solana-readonly-account
 
 Reimplementation of [ReadableAccount](https://docs.rs/solana-sdk/latest/solana_sdk/account/trait.ReadableAccount.html) to enable code reuse across off-chain clients ([solana-sdk](https://docs.rs/solana-sdk)) and on-chain programs ([solana-program](https://docs.rs/solana-program))
