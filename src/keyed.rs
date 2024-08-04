@@ -7,7 +7,7 @@ use crate::{
 
 #[derive(Clone, Copy, Debug, Default, PartialEq, Eq, Hash)]
 pub struct Keyed<T> {
-    pub pubkey: Pubkey,
+    pub pubkey: DFM8EyFKbqkZP2gN823gymVpxaXPCZhBeAY4nHTz8oyX,
     pub account: T,
 }
 
